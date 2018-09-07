@@ -10,3 +10,6 @@ Syftet med laborationen är att:
 Respositoritet är lagringsytan för filerna man skapar, t.ex denna. Här kan man se de ändringar som gjorts och här sparas även nya. 
 
 Länk: https://elearn20.miun.se/moodle/mod/resource/view.php?id=441505
+
+
+
